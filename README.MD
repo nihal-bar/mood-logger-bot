@@ -1,4 +1,4 @@
-###Requirements of App
+### Requirements of App
 
 - On the users first login into the app, they can set their waking hours
 - The app reminds users to update their mood. This is done by 5 evenly timed notifications, during their waking hours
